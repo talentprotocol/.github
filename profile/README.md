@@ -1,5 +1,7 @@
 ## gm, we're Talent Protocol 👋
 
+![An illustration with some star shapped icons](https://github.com/talentprotocol/.github/raw/main/assets/banner.jpg)
+
 We are a web3 professional community and platform for high-potential builders where they can build their verifiable on-chain resume and find the support they need to succeed.
 
 Talent Protocol is rooted in two core beliefs:
