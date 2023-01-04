@@ -49,7 +49,7 @@ We see a world where talent has **full control over their careers**. A new reali
 	<br>
   The 1st era of the web was about how we interact with information. Google won this era. The 2nd era was about how we interact with each other, thus Facebook was born. The 3rd era is about how we interact and exchange value with each other. 
 
-  Instead of just following someone on Twitter, we’ll hold their tokens ****to become economically, emotionally and socially invested in each others’ journeys.
+  Instead of just following someone on Twitter, we’ll hold their tokens to become economically, emotionally and socially invested in each others’ journeys.
 
   Everyone should be able to create their own career circles and personal economies.
 </details>
