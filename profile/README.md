@@ -1,5 +1,5 @@
 ## gm, we're Talent Protocol 👋
 
-We are on a mission to help the next generation of builders succeed by making professional reputation data easily accessible and human potential more visible.
+We help the next generation of builders succeed by bringing their reputation onchain, where data speaks louder than words.
 
-Get to know everything about us [here](https://talentprotocol.com).
+Get your Talent Passport [here](https://talentprotocol.com).
